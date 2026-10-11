@@ -1,0 +1,6 @@
+{
+  "mode": "official course snapshot",
+  "rows": 90,
+  "live_error": "525 Server Error: <none> for url: https://api.spacexdata.com/v4/launches/past",
+  "source": "IBM-DS0321EN-SkillsNetwork/datasets/dataset_part_1.csv"
+}

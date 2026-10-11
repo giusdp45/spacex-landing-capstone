@@ -1,0 +1,8 @@
+LandingResult,LandingType,Launches
+No attempt,Other / no attempt,10
+Failure,Drone ship,5
+Other,Ocean,5
+Success,Drone ship,5
+Success,Ground pad,3
+Failure,Other / no attempt,2
+Other,Drone ship,2

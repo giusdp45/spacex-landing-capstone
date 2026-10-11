@@ -1,0 +1,79 @@
+{
+  "rows": 56,
+  "successes": 24,
+  "sites": [
+    {
+      "Launch Site": "CCAFS LC-40",
+      "Lat": 28.56230197,
+      "Long": -80.57735648
+    },
+    {
+      "Launch Site": "CCAFS SLC-40",
+      "Lat": 28.56319718,
+      "Long": -80.57682003
+    },
+    {
+      "Launch Site": "KSC LC-39A",
+      "Lat": 28.57325457,
+      "Long": -80.64689529
+    },
+    {
+      "Launch Site": "VAFB SLC-4E",
+      "Lat": 34.63283416,
+      "Long": -120.6107455
+    }
+  ],
+  "proximity": [
+    {
+      "Feature": "Coastline",
+      "DistanceKm": 0.8579490762279827,
+      "OSMWay": 22322002,
+      "Name": "Coastline",
+      "Lat": 28.5642176585741,
+      "Long": -80.56812812257785
+    },
+    {
+      "Feature": "Railway",
+      "DistanceKm": 0.0001003450401029097,
+      "OSMWay": 96332360,
+      "Name": "Railway",
+      "Lat": 28.56319702427053,
+      "Long": -80.57681901974017
+    },
+    {
+      "Feature": "Road",
+      "DistanceKm": 0.0233985753025755,
+      "OSMWay": 96332374,
+      "Name": "Road",
+      "Lat": 28.56340050087576,
+      "Long": -80.57675561636381
+    }
+  ],
+  "site_rates": [
+    {
+      "Launch Site": "CCAFS LC-40",
+      "sum": 7,
+      "size": 26,
+      "mean": 0.2692307692307692
+    },
+    {
+      "Launch Site": "CCAFS SLC-40",
+      "sum": 3,
+      "size": 7,
+      "mean": 0.42857142857142855
+    },
+    {
+      "Launch Site": "KSC LC-39A",
+      "sum": 10,
+      "size": 13,
+      "mean": 0.7692307692307693
+    },
+    {
+      "Launch Site": "VAFB SLC-4E",
+      "sum": 4,
+      "size": 10,
+      "mean": 0.4
+    }
+  ],
+  "proximity_method": "Closest projection onto OSM way segments in bbox -80.61,28.55,-80.56,28.59, then WGS84 geodesic distance; approximate and map-dependent."
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "file": "dataset_part_1.csv",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/dataset_part_1.csv",
+    "status": 200,
+    "bytes": 11634
+  },
+  {
+    "file": "dataset_part_2.csv",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/dataset_part_2.csv",
+    "status": 200,
+    "bytes": 12100
+  },
+  {
+    "file": "dataset_part_3.csv",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/dataset_part_3.csv",
+    "status": 200,
+    "bytes": 31470
+  },
+  {
+    "file": "Spacex.csv",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/Spacex.csv",
+    "status": 404,
+    "bytes": 323
+  },
+  {
+    "file": "spacex_launch_dash.csv",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv",
+    "status": 200,
+    "bytes": 2476
+  },
+  {
+    "file": "spacex_launch_geo.csv",
+    "url": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_geo.csv",
+    "status": 200,
+    "bytes": 7710
+  },
+  {
+    "file": "api_launches_past.json",
+    "url": "https://api.spacexdata.com/v4/launches/past",
+    "status": 525,
+    "bytes": 7762
+  },
+  {
+    "file": "wikipedia_launches.html",
+    "url": "https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922",
+    "status": 200,
+    "bytes": 3293443
+  }
+]
